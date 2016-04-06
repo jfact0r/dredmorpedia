@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="62">attack-f_0.png</frame>
+  <frame delay="62">attack-f_1.png</frame>
+  <frame delay="62">attack-f_2.png</frame>
+  <frame delay="62">attack-f_3.png</frame>
+</sprite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">Ice_Die_00.png</frame>
+  <frame delay="100">Ice_Die_01.png</frame>
+  <frame delay="100">Ice_Die_02.png</frame>
+  <frame delay="100">Ice_Die_03.png</frame>
+  <frame delay="100">Ice_Die_04.png</frame>
+  <frame delay="100">Ice_Die_05.png</frame>
+  <frame delay="100">Ice_Die_06.png</frame>
+  <frame delay="100">Ice_Die_07.png</frame>
+  <frame delay="100">Ice_Die_08.png</frame>
+  <frame delay="100">Ice_Die_09.png</frame>
+  <frame delay="100">Ice_Die_10.png</frame>
+  <frame delay="100">Ice_Die_11.png</frame>
+  <frame delay="100">Ice_Die_12.png</frame>
+  <frame delay="100">Ice_Die_13.png</frame>
+  <frame delay="100">Ice_Die_14.png</frame>
+  <frame delay="100">Ice_Die_15.png</frame>
+</sprite>

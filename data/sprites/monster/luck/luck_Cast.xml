@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">Luck_Cast_00.png</frame>
+  <frame delay="100">Luck_Cast_01.png</frame>
+  <frame delay="100">Luck_Cast_02.png</frame>
+  <frame delay="100">Luck_Cast_03.png</frame>
+  <frame delay="100">Luck_Cast_04.png</frame>
+  <frame delay="100">Luck_Cast_05.png</frame>
+  <frame delay="100">Luck_Cast_06.png</frame>
+  <frame delay="100">Luck_Cast_07.png</frame>
+  <frame delay="100">Luck_Cast_08.png</frame>
+  <frame delay="100">Luck_Cast_09.png</frame>
+  <frame delay="100">Luck_Cast_10.png</frame>
+  <frame delay="100">Luck_Cast_11.png</frame>
+  <frame delay="100">Luck_Cast_12.png</frame>
+  <frame delay="100">Luck_Cast_13.png</frame>
+  <frame delay="100">Luck_Cast_14.png</frame>
+  <frame delay="100">Luck_Cast_15.png</frame>
+</sprite>

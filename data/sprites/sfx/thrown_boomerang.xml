@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="125">thrown_boomerang_0.png</frame>
+  <frame delay="125">thrown_boomerang_1.png</frame>
+  <frame delay="125">thrown_boomerang_2.png</frame>
+  <frame delay="125">thrown_boomerang_3.png</frame>
+</sprite>

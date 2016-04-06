@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">vladiggle_die_r_00.png</frame>
+  <frame delay="50">vladiggle_die_r_01.png</frame>
+  <frame delay="100">vladiggle_die_r_02.png</frame>
+  <frame delay="50">vladiggle_die_r_03.png</frame>
+  <frame delay="50">vladiggle_die_r_04.png</frame>
+  <frame delay="50">vladiggle_die_r_05.png</frame>
+  <frame delay="100">vladiggle_die_r_06.png</frame>
+  <frame delay="100">vladiggle_die_r_07.png</frame>
+  <frame delay="30">vladiggle_die_r_08.png</frame>
+  <frame delay="30">vladiggle_die_r_09.png</frame>
+  <frame delay="50">vladiggle_die_r_10.png</frame>
+  <frame delay="50">vladiggle_die_r_11.png</frame>
+  <frame delay="70">vladiggle_die_r_12.png</frame>
+  <frame delay="70">vladiggle_die_r_13.png</frame>
+  <frame delay="100">vladiggle_die_r_14.png</frame>
+  <frame delay="70">vladiggle_die_r_15.png</frame>
+  <frame delay="50">vladiggle_die_r_16.png</frame>
+  <frame delay="50">vladiggle_die_r_17.png</frame>
+  <frame delay="50">vladiggle_die_r_18.png</frame>
+  <frame delay="50">vladiggle_die_r_19.png</frame>
+  <frame delay="50">vladiggle_die_r_20.png</frame>
+  <frame delay="50">vladiggle_die_r_21.png</frame>
+  <frame delay="100">vladiggle_die_r_22.png</frame>
+</sprite>

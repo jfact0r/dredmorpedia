@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="150">hero_grab_item_0.png</frame>
+  <frame delay="80">hero_grab_item_1.png</frame>
+  <frame delay="400">hero_grab_item_2.png</frame>
+</sprite>

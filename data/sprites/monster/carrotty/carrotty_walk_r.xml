@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="75">carrotty_walk_r_0.png</frame>
+  <frame delay="75">carrotty_walk_r_1.png</frame>
+  <frame delay="75">carrotty_walk_r_2.png</frame>
+  <frame delay="75">carrotty_walk_r_3.png</frame>
+  <frame delay="75">carrotty_walk_r_4.png</frame>
+  <frame delay="75">carrotty_walk_r_5.png</frame>
+  <frame delay="75">carrotty_walk_r_6.png</frame>
+</sprite>

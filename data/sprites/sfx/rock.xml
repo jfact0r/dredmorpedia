@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="60">rock_0.png</frame>
+  <frame delay="60">rock_1.png</frame>
+  <frame delay="60">rock_2.png</frame>
+  <frame delay="60">rock_3.png</frame>
+</sprite>

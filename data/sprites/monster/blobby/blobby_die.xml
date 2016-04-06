@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">blobby_die_00.png</frame>
+  <frame delay="100">blobby_die_01.png</frame>
+  <frame delay="100">blobby_die_02.png</frame>
+  <frame delay="100">blobby_die_03.png</frame>
+  <frame delay="100">blobby_die_04.png</frame>
+  <frame delay="100">blobby_die_05.png</frame>
+  <frame delay="100">blobby_die_06.png</frame>
+  <frame delay="100">blobby_die_07.png</frame>
+  <frame delay="100">blobby_die_08.png</frame>
+  <frame delay="100">blobby_die_09.png</frame>
+</sprite>

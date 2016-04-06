@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">raven_atk_u_000.png</frame>
+  <frame delay="50">raven_atk_u_001.png</frame>
+  <frame delay="50">raven_atk_u_002.png</frame>
+  <frame delay="50">raven_atk_u_003.png</frame>
+  <frame delay="50">raven_atk_u_004.png</frame>
+  <frame delay="100">raven_atk_u_005.png</frame>
+  <frame delay="50">raven_atk_u_006.png</frame>
+  <frame delay="100">raven_atk_u_007.png</frame>
+  <frame delay="100">raven_atk_u_008.png</frame>
+
+</sprite>

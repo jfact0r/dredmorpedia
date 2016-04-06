@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">raven_cast_000.png</frame>
+  <frame delay="50">raven_cast_001.png</frame>
+  <frame delay="50">raven_cast_002.png</frame>
+  <frame delay="50">raven_cast_003.png</frame>
+  <frame delay="50">raven_cast_004.png</frame>
+  <frame delay="50">raven_cast_005.png</frame>
+  <frame delay="50">raven_cast_006.png</frame>
+  <frame delay="50">raven_cast_007.png</frame>
+  <frame delay="50">raven_cast_008.png</frame>
+  <frame delay="50">raven_cast_009.png</frame>
+  <frame delay="50">raven_cast_010.png</frame>
+  <frame delay="50">raven_cast_011.png</frame>
+  <frame delay="50">raven_cast_012.png</frame>
+  <frame delay="200">raven_cast_013.png</frame>
+
+</sprite>

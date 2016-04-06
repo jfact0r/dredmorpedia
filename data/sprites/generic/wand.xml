@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="62">wand_00.png</frame>
+  <frame delay="62">wand_01.png</frame>
+  <frame delay="62">wand_02.png</frame>
+  <frame delay="400">wand_03.png</frame>
+  <frame delay="100">wand_04.png</frame>
+  <frame delay="100">wand_05.png</frame>
+  <frame delay="100">wand_06.png</frame>
+  <frame delay="100">wand_07.png</frame>
+  <frame delay="100">wand_08.png</frame>
+  <frame delay="20">wand_09.png</frame>
+  <frame delay="20">wand_10.png</frame>
+  <frame delay="60">wand_11.png</frame>
+  <frame delay="60">wand_12.png</frame>
+  <frame delay="60">wand_13.png</frame>
+  <frame delay="60">wand_14.png</frame>
+  <frame delay="100">wand_15.png</frame>
+  <frame delay="60">wand_16.png</frame>
+  <frame delay="45">wand_17.png</frame>
+  <frame delay="60">wand_18.png</frame>
+  <frame delay="100">wand_19.png</frame>
+  <frame delay="10">wand_20.png</frame>
+</sprite>

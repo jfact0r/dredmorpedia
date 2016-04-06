@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">fatty_die_r_00.png</frame>
+  <frame delay="140">fatty_die_r_01.png</frame>
+  <frame delay="80">fatty_die_r_02.png</frame>
+  <frame delay="80">fatty_die_r_03.png</frame>
+  <frame delay="80">fatty_die_r_04.png</frame>
+  <frame delay="80">fatty_die_r_05.png</frame>
+  <frame delay="80">fatty_die_r_06.png</frame>
+  <frame delay="80">fatty_die_r_07.png</frame>
+  <frame delay="80">fatty_die_r_08.png</frame>
+  <frame delay="80">fatty_die_r_09.png</frame>
+  <frame delay="80">fatty_die_r_10.png</frame>
+  <frame delay="80">fatty_die_r_11.png</frame>
+</sprite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">Witch_Hit_Left_0.png</frame>
+  <frame delay="125">Witch_Hit_Left_1.png</frame>
+  <frame delay="175">Witch_Hit_Left_2.png</frame>
+  <frame delay="135">Witch_Hit_Left_3.png</frame>
+</sprite>

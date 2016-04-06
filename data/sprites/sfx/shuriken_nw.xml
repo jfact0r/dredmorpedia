@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="25">shuriken_nw_0.png</frame>
+  <frame delay="25">shuriken_nw_1.png</frame>
+  <frame delay="25">shuriken_nw_2.png</frame>
+  <frame delay="25">shuriken_nw_3.png</frame>
+</sprite>

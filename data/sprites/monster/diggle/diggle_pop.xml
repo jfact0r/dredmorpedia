@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">diggle_pop_00.png</frame>
+  <frame delay="100">diggle_pop_01.png</frame>
+  <frame delay="100">diggle_pop_02.png</frame>
+  <frame delay="100">diggle_pop_03.png</frame>
+  <frame delay="100">diggle_pop_04.png</frame>
+  <frame delay="100">diggle_pop_05.png</frame>
+  <frame delay="100">diggle_pop_06.png</frame>
+  <frame delay="100">diggle_pop_07.png</frame>
+  <frame delay="100">diggle_pop_08.png</frame>
+  <frame delay="100">diggle_pop_09.png</frame>
+  <frame delay="100">diggle_pop_10.png</frame>
+  <frame delay="100">diggle_pop_11.png</frame>
+  <frame delay="100">diggle_pop_12.png</frame>
+ 
+</sprite>

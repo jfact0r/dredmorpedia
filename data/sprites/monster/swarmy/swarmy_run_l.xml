@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">swarmy_run_l_0.png</frame>
+  <frame delay="100">swarmy_run_l_1.png</frame>
+  <frame delay="100">swarmy_run_l_2.png</frame>
+  <frame delay="100">swarmy_run_l_3.png</frame>
+  <frame delay="100">swarmy_run_l_4.png</frame>
+  <frame delay="100">swarmy_run_l_5.png</frame>
+  <frame delay="100">swarmy_run_l_6.png</frame>
+  <frame delay="100">swarmy_run_l_7.png</frame>
+</sprite>

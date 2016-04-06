@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="200">water_walking_0.png</frame>
+  <frame delay="200">water_walking_1.png</frame>
+  <frame delay="200">water_walking_2.png</frame>
+</sprite>

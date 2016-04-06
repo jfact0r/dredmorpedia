@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">scroll_00.png</frame>
+  <frame delay="100">scroll_01.png</frame>
+  <frame delay="100">scroll_02.png</frame>
+  <frame delay="400">scroll_03.png</frame>
+  <frame delay="100">scroll_04.png</frame>
+  <frame delay="100">scroll_05.png</frame>
+  <frame delay="100">scroll_06.png</frame>
+  <frame delay="100">scroll_07.png</frame>
+  <frame delay="250">scroll_08.png</frame>
+  <frame delay="60">scroll_09.png</frame>
+  <frame delay="250">scroll_10.png</frame>
+</sprite>

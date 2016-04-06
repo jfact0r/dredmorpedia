@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">diggle_run_u_0.png</frame>
+  <frame delay="80">diggle_run_u_1.png</frame>
+  <frame delay="80">diggle_run_u_2.png</frame>
+  <frame delay="80">diggle_run_u_3.png</frame>
+  <frame delay="80">diggle_run_u_4.png</frame>
+  <frame delay="80">diggle_run_u_5.png</frame>
+</sprite>

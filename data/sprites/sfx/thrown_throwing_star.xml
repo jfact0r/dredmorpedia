@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">thrown_throwing_star_0.png</frame>
+  <frame delay="100">thrown_throwing_star_1.png</frame>
+  <frame delay="100">thrown_throwing_star_2.png</frame>
+  <frame delay="100">thrown_throwing_star_3.png</frame>
+</sprite>

@@ -1,0 +1,8 @@
+<sounds>
+
+<sound name="muscle_attack" wave="sfx/muscle_diggle/muscle_diggle_attacks.wav" />
+<sound name="muscle_damage" wave="sfx/muscle_diggle/muscle_diggle_damaged.wav" />
+<sound name="muscle_cast" wave="sfx/muscle_diggle/muscle_diggle_spellcasting.wav" />
+<sound name="muscle_die" wave="sfx/muscle_diggle/muscle_diggle_dying.wav" />
+
+</sounds>

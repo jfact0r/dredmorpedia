@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="120">hero_drown_l_00.png</frame>
+  <frame delay="120">hero_drown_l_01.png</frame>
+  <frame delay="100">hero_drown_l_02.png</frame>
+  <frame delay="100">hero_drown_l_03.png</frame>
+  <frame delay="100">hero_drown_l_04.png</frame>
+  <frame delay="100">hero_drown_l_05.png</frame>
+  <frame delay="100">hero_drown_l_06.png</frame>
+  <frame delay="100">hero_drown_l_07.png</frame>
+  <frame delay="900">hero_drown_l_08.png</frame>
+</sprite>

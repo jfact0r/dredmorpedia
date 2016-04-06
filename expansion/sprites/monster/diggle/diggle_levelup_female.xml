@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="550">diggle_levelup_female_00.png</frame>
+  <frame delay="120">diggle_levelup_female_01.png</frame>
+  <frame delay="120">diggle_levelup_female_02.png</frame>
+  <frame delay="120">diggle_levelup_female_03.png</frame>
+  <frame delay="120">diggle_levelup_female_04.png</frame>
+  <frame delay="120">diggle_levelup_female_05.png</frame>
+  <frame delay="550">diggle_levelup_female_06.png</frame>
+
+</sprite>

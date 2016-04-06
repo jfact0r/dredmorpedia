@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="70">greeny_die_00.png</frame>
+  <frame delay="70">greeny_die_01.png</frame>
+  <frame delay="70">greeny_die_02.png</frame>
+  <frame delay="70">greeny_die_03.png</frame>
+  <frame delay="70">greeny_die_04.png</frame>
+  <frame delay="70">greeny_die_05.png</frame>
+  <frame delay="70">greeny_die_06.png</frame>
+  <frame delay="70">greeny_die_07.png</frame>
+  <frame delay="70">greeny_die_08.png</frame>
+  <frame delay="70">greeny_die_09.png</frame>
+</sprite>

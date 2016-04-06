@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">raven_fly_l_000.png</frame>
+  <frame delay="100">raven_fly_l_001.png</frame>
+  <frame delay="100">raven_fly_l_002.png</frame>
+  <frame delay="100">raven_fly_l_003.png</frame>
+  <frame delay="100">raven_fly_l_004.png</frame>
+  <frame delay="100">raven_fly_l_005.png</frame>
+
+</sprite>

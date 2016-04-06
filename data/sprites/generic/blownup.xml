@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="400">blownup_00.png</frame>
+  <frame delay="62">blownup_01.png</frame>
+  <frame delay="62">blownup_02.png</frame>
+  <frame delay="62">blownup_03.png</frame>
+  <frame delay="62">blownup_04.png</frame>
+  <frame delay="62">blownup_05.png</frame>
+  <frame delay="62">blownup_06.png</frame>
+  <frame delay="62">blownup_07.png</frame>
+  <frame delay="62">blownup_08.png</frame>
+  <frame delay="62">blownup_09.png</frame>
+</sprite>

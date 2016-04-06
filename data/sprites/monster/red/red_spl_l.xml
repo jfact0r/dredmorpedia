@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">red_spl_l_0.png</frame>
+  <frame delay="120">red_spl_l_1.png</frame>
+  <frame delay="80">red_spl_l_2.png</frame>
+  <frame delay="150">red_spl_l_3.png</frame>
+</sprite>

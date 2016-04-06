@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="550">hero_levelup_0.png</frame>
+  <frame delay="120">hero_levelup_1.png</frame>
+  <frame delay="120">hero_levelup_2.png</frame>
+  <frame delay="120">hero_levelup_3.png</frame>
+  <frame delay="120">hero_levelup_4.png</frame>
+  <frame delay="120">hero_levelup_5.png</frame>
+  <frame delay="550">hero_levelup_6.png</frame>
+</sprite>

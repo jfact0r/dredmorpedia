@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="120">hero_shitty_idle_0.png</frame>
+  <frame delay="120">hero_shitty_idle_1.png</frame>
+  <frame delay="120">hero_shitty_idle_2.png</frame>
+  <frame delay="120">hero_shitty_idle_3.png</frame>
+  <frame delay="120">hero_shitty_idle_4.png</frame>
+  <frame delay="120">hero_shitty_idle_5.png</frame>
+  <frame delay="120">hero_shitty_idle_6.png</frame>
+</sprite>

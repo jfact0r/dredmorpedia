@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="160">hero_atk_thr_u_0.png</frame>
+  <frame delay="80">hero_atk_thr_u_1.png</frame>
+  <frame delay="90">hero_atk_thr_u_2.png</frame>
+</sprite>

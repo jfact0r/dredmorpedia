@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="125">thrown_potion_0.png</frame>
+  <frame delay="125">thrown_potion_1.png</frame>
+  <frame delay="125">thrown_potion_2.png</frame>
+  <frame delay="125">thrown_potion_3.png</frame>
+</sprite>

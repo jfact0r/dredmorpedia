@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="125">mush_spl_0.png</frame>
+  <frame delay="125">mush_spl_1.png</frame>
+  <frame delay="125">mush_spl_2.png</frame>
+  <frame delay="125">mush_spl_3.png</frame>
+  <frame delay="125">mush_spl_4.png</frame>
+  <frame delay="125">mush_spl_5.png</frame>
+  <frame delay="110">mush_spl_6.png</frame>
+  <frame delay="125">mush_spl_7.png</frame>
+</sprite>

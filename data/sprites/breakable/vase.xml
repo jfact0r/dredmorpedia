@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">vase_0.png</frame>
+  <frame delay="100">vase_1.png</frame>
+  <frame delay="100">vase_2.png</frame>
+  <frame delay="100">vase_3.png</frame>
+</sprite>

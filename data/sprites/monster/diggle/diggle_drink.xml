@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="200">diggle_drink_00.png</frame>
+  <frame delay="100">diggle_drink_01.png</frame>
+  <frame delay="80">diggle_drink_02.png</frame>
+  <frame delay="80">diggle_drink_03.png</frame>
+  <frame delay="100">diggle_drink_04.png</frame>
+  <frame delay="200">diggle_drink_05.png</frame>
+  <frame delay="200">diggle_drink_06.png</frame>
+  <frame delay="90">diggle_drink_07.png</frame>
+
+
+</sprite>

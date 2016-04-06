@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">potion_00.png</frame>
+  <frame delay="60">potion_01.png</frame>
+  <frame delay="60">potion_02.png</frame>
+  <frame delay="60">potion_03.png</frame>
+  <frame delay="60">potion_04.png</frame>
+  <frame delay="60">potion_05.png</frame>
+  <frame delay="240">potion_06.png</frame>
+  <frame delay="120">potion_07.png</frame>
+  <frame delay="60">potion_08.png</frame>
+  <frame delay="60">potion_09.png</frame>
+  <frame delay="60">potion_10.png</frame>
+  <frame delay="60">potion_11.png</frame>
+  <frame delay="60">potion_12.png</frame>
+  <frame delay="60">potion_13.png</frame>
+  <frame delay="120">potion_14.png</frame>
+</sprite>

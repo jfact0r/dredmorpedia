@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">raven_die_000.png</frame>
+  <frame delay="100">raven_die_001.png</frame>
+  <frame delay="100">raven_die_002.png</frame>
+  <frame delay="100">raven_die_003.png</frame>
+  <frame delay="100">raven_die_004.png</frame>
+  <frame delay="100">raven_die_005.png</frame>
+  <frame delay="100">raven_die_006.png</frame>
+  <frame delay="100">raven_die_007.png</frame>
+  <frame delay="100">raven_die_008.png</frame>
+  <frame delay="100">raven_die_009.png</frame>
+  <frame delay="100">raven_die_010.png</frame>
+  <frame delay="100">raven_die_011.png</frame>
+  <frame delay="100">raven_die_012.png</frame>
+  <frame delay="100">raven_die_013.png</frame>
+  <frame delay="100">raven_die_014.png</frame>
+  <frame delay="100">raven_die_015.png</frame>
+
+</sprite>

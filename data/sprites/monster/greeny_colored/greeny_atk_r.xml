@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="60">greeny_atk_r_00.png</frame>
+  <frame delay="60">greeny_atk_r_01.png</frame>
+  <frame delay="60">greeny_atk_r_02.png</frame>
+  <frame delay="60">greeny_atk_r_03.png</frame>
+  <frame delay="60">greeny_atk_r_04.png</frame>
+  <frame delay="60">greeny_atk_r_05.png</frame>
+  <frame delay="50">greeny_atk_r_06.png</frame>
+  <frame delay="50">greeny_atk_r_07.png</frame>
+  <frame delay="50">greeny_atk_r_08.png</frame>
+  <frame delay="50">greeny_atk_r_09.png</frame>
+  <frame delay="60">greeny_atk_r_10.png</frame>
+  <frame delay="60">greeny_atk_r_11.png</frame>
+  <frame delay="60">greeny_atk_r_12.png</frame>
+</sprite>

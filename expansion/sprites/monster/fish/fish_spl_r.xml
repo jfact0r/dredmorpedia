@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="200">fish_spl_r_00.png</frame>
+  <frame delay="100">fish_spl_r_01.png</frame>
+  <frame delay="80">fish_spl_r_02.png</frame>
+  <frame delay="80">fish_spl_r_03.png</frame>
+  <frame delay="80">fish_spl_r_04.png</frame>
+  <frame delay="100">fish_spl_r_05.png</frame>
+  <frame delay="50">fish_spl_r_06.png</frame>
+  <frame delay="50">fish_spl_r_07.png</frame>
+  <frame delay="50">fish_spl_r_08.png</frame>
+  <frame delay="80">fish_spl_r_09.png</frame>
+  <frame delay="200">fish_spl_r_10.png</frame>
+</sprite>

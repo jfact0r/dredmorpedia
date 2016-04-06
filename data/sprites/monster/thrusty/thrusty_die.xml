@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">thrusty_die_0.png</frame>
+  <frame delay="80">thrusty_die_1.png</frame>
+  <frame delay="80">thrusty_die_2.png</frame>
+  <frame delay="80">thrusty_die_3.png</frame>
+  <frame delay="80">thrusty_die_4.png</frame>
+</sprite>

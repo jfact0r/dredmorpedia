@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">deth_idle_d_0.png</frame>
+  <frame delay="80">deth_idle_d_1.png</frame>
+</sprite>

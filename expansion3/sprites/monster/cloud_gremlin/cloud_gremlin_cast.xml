@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="100">cloud_gremlin_cast_00.png</frame>
+  <frame delay="100">cloud_gremlin_cast_01.png</frame>
+  <frame delay="200">cloud_gremlin_cast_02.png</frame>
+  <frame delay="100">cloud_gremlin_cast_03.png</frame>
+  <frame delay="50">cloud_gremlin_cast_04.png</frame>
+  <frame delay="50">cloud_gremlin_cast_05.png</frame>
+  <frame delay="50">cloud_gremlin_cast_06.png</frame>
+  <frame delay="50">cloud_gremlin_cast_07.png</frame>
+  <frame delay="50">cloud_gremlin_cast_08.png</frame>
+  <frame delay="100">cloud_gremlin_cast_09.png</frame>
+
+
+</sprite>

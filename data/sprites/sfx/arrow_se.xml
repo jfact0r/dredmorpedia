@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="25">arrow_se_0.png</frame>
+  <frame delay="25">arrow_se_1.png</frame>
+  <frame delay="25">arrow_se_2.png</frame>
+  <frame delay="25">arrow_se_3.png</frame>
+</sprite>

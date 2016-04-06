@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">hero_die_00.png</frame>
+  <frame delay="80">hero_die_01.png</frame>
+  <frame delay="80">hero_die_02.png</frame>
+  <frame delay="250">hero_die_03.png</frame>
+  <frame delay="40">hero_die_04.png</frame>
+  <frame delay="80">hero_die_05.png</frame>
+  <frame delay="180">hero_die_06.png</frame>
+  <frame delay="200">hero_die_07.png</frame>
+  <frame delay="80">hero_die_08.png</frame>
+  <frame delay="80">hero_die_09.png</frame>
+  <frame delay="80">hero_die_10.png</frame>
+  <frame delay="120">hero_die_11.png</frame>
+  <frame delay="100">hero_die_12.png</frame>
+  <frame delay="200">hero_die_13.png</frame>
+  <frame delay="120">hero_die_14.png</frame>
+  <frame delay="80">hero_die_15.png</frame>
+  <frame delay="80">hero_die_16.png</frame>
+  <frame delay="80">hero_die_17.png</frame>
+  <frame delay="80">hero_die_18.png</frame>
+  <frame delay="200">hero_die_19.png</frame>
+</sprite>

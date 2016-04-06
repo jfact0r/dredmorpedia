@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="100">brax_die_0.png</frame>
+  <frame delay="100">brax_die_1.png</frame>
+  <frame delay="100">brax_die_2.png</frame>
+  <frame delay="100">brax_die_3.png</frame>
+  <frame delay="100">brax_die_4.png</frame>
+  <frame delay="100">brax_die_5.png</frame>
+  <frame delay="100">brax_die_6.png</frame>
+  <frame delay="100">brax_die_7.png</frame>
+  <frame delay="100">brax_die_8.png</frame>
+</sprite>

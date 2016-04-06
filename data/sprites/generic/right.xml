@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="70">right_0.png</frame>
+  <frame delay="70">right_1.png</frame>
+  <frame delay="70">right_2.png</frame>
+  <frame delay="70">right_3.png</frame>
+  <frame delay="70">right_4.png</frame>
+  <frame delay="70">right_5.png</frame>
+  <frame delay="70">right_6.png</frame>
+  <frame delay="70">right_7.png</frame>
+</sprite>

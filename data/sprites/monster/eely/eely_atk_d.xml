@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="80">eely_atk_d_0.png</frame>
+  <frame delay="80">eely_atk_d_1.png</frame>
+  <frame delay="80">eely_atk_d_2.png</frame>
+  <frame delay="150">eely_atk_d_3.png</frame>
+  <frame delay="150">eely_atk_d_4.png</frame>
+  <frame delay="120">eely_atk_d_5.png</frame>
+</sprite>

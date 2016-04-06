@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="50">thrown_blazing_nova_0.png</frame>
+  <frame delay="50">thrown_blazing_nova_1.png</frame>
+  <frame delay="50">thrown_blazing_nova_2.png</frame>
+  <frame delay="50">thrown_blazing_nova_3.png</frame>
+</sprite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="30">hero_atk_mace_d_00.png</frame>
+  <frame delay="30">hero_atk_mace_d_01.png</frame>
+  <frame delay="30">hero_atk_mace_d_02.png</frame>
+  <frame delay="60">hero_atk_mace_d_03.png</frame>
+  <frame delay="60">hero_atk_mace_d_04.png</frame>
+  <frame delay="150">hero_atk_mace_d_05.png</frame>
+  <frame delay="60">hero_atk_mace_d_06.png</frame>
+  <frame delay="45">hero_atk_mace_d_07.png</frame>
+  <frame delay="60">hero_atk_mace_d_08.png</frame>
+  <frame delay="60">hero_atk_mace_d_09.png</frame>
+  <frame delay="60">hero_atk_mace_d_10.png</frame>
+  <frame delay="80">hero_atk_mace_d_11.png</frame>
+</sprite>

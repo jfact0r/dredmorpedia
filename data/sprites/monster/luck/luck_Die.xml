@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<sprite>
+  <frame delay="50">Luck_Die_00.png</frame>
+  <frame delay="50">Luck_Die_01.png</frame>
+  <frame delay="50">Luck_Die_02.png</frame>
+  <frame delay="50">Luck_Die_03.png</frame>
+  <frame delay="50">Luck_Die_04.png</frame>
+  <frame delay="50">Luck_Die_05.png</frame>
+  <frame delay="50">Luck_Die_06.png</frame>
+  <frame delay="50">Luck_Die_07.png</frame>
+  <frame delay="50">Luck_Die_08.png</frame>
+  <frame delay="50">Luck_Die_09.png</frame>
+  <frame delay="50">Luck_Die_10.png</frame>
+  <frame delay="50">Luck_Die_11.png</frame>
+  <frame delay="50">Luck_Die_12.png</frame>
+  <frame delay="50">Luck_Die_13.png</frame>
+  <frame delay="50">Luck_Die_14.png</frame>
+  <frame delay="50">Luck_Die_15.png</frame>
+  <frame delay="50">Luck_Die_16.png</frame>
+  <frame delay="50">Luck_Die_17.png</frame>
+  <frame delay="50">Luck_Die_18.png</frame>
+  <frame delay="50">Luck_Die_19.png</frame>
+  <frame delay="50">Luck_Die_20.png</frame>
+  <frame delay="50">Luck_Die_21.png</frame>
+  <frame delay="50">Luck_Die_22.png</frame>
+  <frame delay="50">Luck_Die_23.png</frame>
+</sprite>

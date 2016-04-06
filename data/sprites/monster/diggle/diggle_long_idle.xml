@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sprite>
+  <frame delay="70">diggle_long_idle_00.png</frame>
+  <frame delay="70">diggle_long_idle_01.png</frame>
+  <frame delay="70">diggle_long_idle_02.png</frame>
+  <frame delay="70">diggle_long_idle_03.png</frame>
+  <frame delay="70">diggle_long_idle_04.png</frame>
+  <frame delay="70">diggle_long_idle_05.png</frame>
+  <frame delay="70">diggle_long_idle_06.png</frame>
+  <frame delay="70">diggle_long_idle_07.png</frame>
+  <frame delay="70">diggle_long_idle_08.png</frame>
+  <frame delay="70">diggle_long_idle_09.png</frame>
+  <frame delay="70">diggle_long_idle_10.png</frame>
+  <frame delay="70">diggle_long_idle_11.png</frame>
+  <frame delay="70">diggle_long_idle_12.png</frame>
+
+</sprite>
